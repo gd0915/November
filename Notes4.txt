@@ -1,2 +1,6 @@
 This file will be pushed.
+
 I want to push this file.
+
+I want to see a conflict. 
+
